@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 I'm Imtiaz, a recent BSc. graduate in Electrical & Electronics Engineering with a focus on AI and Robotics.<br>🤖 I'm passionate about building smart systems and love working on projects involving Computer Vision, Deep Learning, and Machine Learning.<br>🚀 Always curious to learn — I'm exploring new ideas and open to collaboration on innovative tech projects.
+# About Me:
+I'm Imtiaz, a recent BSc. graduate in Electrical & Electronics Engineering with a focus on AI and Robotics.<br> I'm passionate about building smart systems and love working on projects involving Computer Vision, Deep Learning, and Machine Learning.<br> Always curious to learn — I'm exploring new ideas and open to collaboration on innovative tech projects.
 
 
 ## 🌐 Socials:
