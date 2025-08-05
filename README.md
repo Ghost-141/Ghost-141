@@ -7,11 +7,15 @@ I'm Imtiaz, a recent graduate in EEE with a focus on AI and Embedded System.<br>
 
 ###
 
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ghost-141/Ghost-141/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ghost-141/Ghost-141/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ghost-141/Ghost-141/output/pacman-contribution-graph.svg">
 </picture>
+
+###
 
 ###
 
@@ -35,7 +39,6 @@ I'm Imtiaz, a recent graduate in EEE with a focus on AI and Embedded System.<br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Ghost-141.Ghost-141&"  />
 </div>
 
-
 ###
 
 ### ✍️ Random Dev Quote
@@ -44,4 +47,5 @@ I'm Imtiaz, a recent graduate in EEE with a focus on AI and Embedded System.<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=Ghost-141&icon=0&color=0)](https://visitcount.itsvg.in)
 
+###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
