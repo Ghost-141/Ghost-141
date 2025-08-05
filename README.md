@@ -39,7 +39,7 @@
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,docker,conda,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 </div>
 
 
