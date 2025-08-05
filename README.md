@@ -22,30 +22,25 @@ I'm Imtiaz, a recent graduate in EEE with a focus on AI and Embedded System.<br>
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <a href="https://www.linkedin.com/in/imtiazahammed141/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
 </div>
 
 ###
 
 <div align="center" style="width: 100%">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imtiazahammed141/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@imtiazahammed141/0" alt="Medium post 1"  />
   </a>
 </div>
 
 ###
 
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Ghost-141.Ghost-141&"  />
 </div>
 
-###
-
-<p align="left">Hello World!!</p>
 
 ###
 
