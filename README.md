@@ -1,12 +1,6 @@
 # About Me:
 I'm Imtiaz, a recent graduate in EEE with a focus on AI and Embedded System.<br> I'm passionate about building smart systems and love working on projects involving Computer Vision, Deep Learning, and Machine Learning.<br> Always curious to learn - I'm exploring new ideas and open to collaboration on innovative tech projects.
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ghost-141&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ghost-141&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <img src="https://raw.githubusercontent.com/Ghost-141/Ghost-141/output/snake.svg" alt="Snake animation" />
