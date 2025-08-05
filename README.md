@@ -42,14 +42,14 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 </div>
 
-
 <br/>
+
 <hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ghost-141/Ghost-141/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ghost-141/Ghost-141/output/github-contribution-grid-snake.svg?palette=github-dark" />
   <br/><br/><br/>
 </div>
 
