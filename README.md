@@ -11,10 +11,9 @@
 <div align="center">
  
 <div align="center"> 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mdimtiazahammed@gmail.com)
-  <a href="https://www.linkedin.com/in/imtiazahammed141/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="mailto:mdimtiazahammed@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
 
 <a href="https://medium.com/@imtiazahammed141" target="_blank">
   <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
