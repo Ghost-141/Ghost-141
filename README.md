@@ -46,16 +46,7 @@
 
 <br/><br/>
 
-
-<br/>
-
-<h2 align="center">🎮 Contribution Graph 🎮</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ghost-141/Ghost-141/output/pacman-contribution-graph-dark.svg" alt="pacman contribution graph" />
-</p>
-
-<br/>
+![Pacman Contribution Graph](https://raw.githubusercontent.com/Ghost-141/Ghost-141/output/dist/pacman-contribution-graph-dark.svg?cache=1)
 
 <hr/>
 
