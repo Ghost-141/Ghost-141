@@ -46,7 +46,8 @@
 
 <br/><br/>
 
-![Pacman Contribution Graph](https://raw.githubusercontent.com/Ghost-141/Ghost-141/output/dist/pacman-contribution-graph-dark.svg?cache=1)
+![Pacman Contribution Graph](https://raw.githubusercontent.com/Ghost-141/Ghost-141/output/dist/pacman-contribution-graph.svg)
+
 
 <hr/>
 
