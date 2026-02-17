@@ -46,8 +46,6 @@
 
 <br/><br/>
 
-![Snake Animation](https://github.com/Ghost-141/Ghost-141/blob/output/snake.svg)
 ![Pacman](https://raw.githubusercontent.com/Ghost-141/Ghost-141/output/pacman-contribution-graph-dark.svg)
-
 
 <hr/>
