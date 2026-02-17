@@ -46,8 +46,6 @@
 
 <br/><br/>
 
-![Pacman Contribution Graph](https://raw.githubusercontent.com/Ghost-141/Ghost-141/output/dist/snake.svg)
-
+![Pacman Contribution Graph](https://raw.githubusercontent.com/Ghost-141/Ghost-141/blob/output/snake.svg)
 
 <hr/>
-
