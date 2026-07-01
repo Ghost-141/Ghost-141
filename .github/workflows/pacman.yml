@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 concurrency:
   group: pacman-graph
@@ -13,21 +16,30 @@ jobs:
   generate:
     permissions:
       contents: write
+
     runs-on: ubuntu-latest
+    timeout-minutes: 20
 
     steps:
       - name: Generate pacman graph
-        uses: abozanona/pacman-contribution-graph@main
+        uses: abozanona/pacman-contribution-graph@v5.0.0
         with:
           github_user_name: Ghost-141
+          games: pacman
         env:
           NODE_OPTIONS: "--max-old-space-size=8192"
 
+      - name: Check generated files
+        run: |
+          echo "Files generated:"
+          find . -maxdepth 3 -type f
+          echo "Dist folder:"
+          ls -la dist || true
+
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
-          destination_dir: pacman
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
