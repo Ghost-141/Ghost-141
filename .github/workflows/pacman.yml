@@ -1,12 +1,12 @@
-name: Generate pacman animation
+name: Generate snake animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 0,8,16 * * *"
   workflow_dispatch:
 
 concurrency:
-  group: pacman-graph
+  group: contribution-snake
   cancel-in-progress: true
 
 jobs:
@@ -15,31 +15,19 @@ jobs:
       contents: write
 
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 10
 
     steps:
-      - name: Generate pacman graph
-        uses: abozanona/pacman-contribution-graph@v5.0.0
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Ghost-141
-          games: pacman
-        env:
-          NODE_OPTIONS: "--max-old-space-size=16384"
-          ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Check generated files
-        run: |
-          echo "Files generated:"
-          find . -maxdepth 3 -type f
-          echo "Dist folder:"
-          ls -la dist || true
-
-      - name: Stop if dist was not generated
-        run: |
-          if [ ! -d dist ]; then
-            echo "dist folder was not generated. Pacman generation failed before deploy."
-            exit 1
-          fi
+      - name: Verify generated files
+        run: ls -la dist
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v5
