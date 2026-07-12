@@ -72,7 +72,8 @@
 <h2 align="center">Acitivity✨ </h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ghost-141/Ghost-141/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph" width="900" />
+  <img src="https://raw.githubusercontent.com/Ghost-141/Ghost-141/output/github-contribution-grid-snake.svg", alt= "Snake Contribution Graph"
+  width="900" />
 </p>
 
 <hr/>
