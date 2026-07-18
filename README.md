@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Ghost-141.png" alt="Imtiaz Ahammed" width="120" />
-</p>
-
 <h1 align="center">Imtiaz Ahammed</h1>
 
 <p align="center">
@@ -9,7 +5,7 @@
 </p>
 
 <p align="center">
-  Building practical, production-ready AI systems—from source-grounded assistants to real-time vision pipelines.
+I build production-ready AI systems that combine machine learning, computer vision, NLP, and scalable AI Inference Pipleine for deployment.
 </p>
 
 <p align="center">
@@ -59,7 +55,7 @@
   <img src="https://img.shields.io/badge/AWS%20ECS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS ECS" />
 </p>
 
-## 🎓 Recognitions
+## 🏆 Achievements
 
 - Top-100 finalist, in **SOLVIO AI Hackathon 2025** for building **Amar Krishok**· [Demo](https://www.youtube.com/watch?v=XKdCSIephks)
 - Ranked among 600 teams, in **Infinity AI BuildFest Hackathon 2025** for **Audeince Intelligence Platoform** · [Demo](https://shorturl.at/BVexs)
